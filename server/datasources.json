@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mlab": {
+    "host": "@ds125881.mlab.com",
+    "port": 25881,
+    "url": "mongodb://vinateria_user:a123456@ds125881.mlab.com:25881/vinateria_db",
+    "database": "vinateria_db",
+    "password": "a123456",
+    "name": "mlab",
+    "user": "vinateria_user",
+    "connector": "mongodb"
+  }
+}
