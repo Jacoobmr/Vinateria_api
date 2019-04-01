@@ -19,7 +19,7 @@
       "type": "string",
       "required": true
     },
-    "cantidad":{
+    "quantity":{
       "type": "number",
       "required": true
 
